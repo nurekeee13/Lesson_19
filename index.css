@@ -1,0 +1,28 @@
+.flexbox{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	flex-flow: row wrap;
+}
+
+.flexbox p{
+	font-weight: bold;
+}
+
+.flexbox div{
+	margin-top: 20px;
+	border: 1px solid black;
+}
+
+img{
+	width: 400px;
+}
+
+button{
+	background-color: blue;
+	border-radius: 40px;
+	border: 1px solid white;
+	color: white;
+	width: 80px;
+	padding: 10px;
+}
